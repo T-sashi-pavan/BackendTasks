@@ -1,0 +1,37 @@
+[
+  {
+    "company": "Amazon",
+    "productName": "Wireless Earbuds",
+    "price": 1999,
+    "rating": 4.3,
+    "discount": 10
+  },
+  {
+    "company": "Flipkart",
+    "productName": "Smartphone X1",
+    "price": 14999,
+    "rating": 4.5,
+    "discount": 15
+  },
+  {
+    "company": "Snapdeal",
+    "productName": "Gaming Keyboard",
+    "price": 2499,
+    "rating": 4.1,
+    "discount": 20
+  },
+  {
+    "company": "Myntra",
+    "productName": "Men's Casual Shirt",
+    "price": 799,
+    "rating": 4.0,
+    "discount": 25
+  },
+  {
+    "company": "Amazon",
+    "productName": "Bluetooth Speaker",
+    "price": 2999,
+    "rating": 4.6,
+    "discount": 18
+  }
+]
