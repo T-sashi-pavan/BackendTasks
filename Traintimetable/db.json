@@ -1,0 +1,7 @@
+{
+  "trains": [
+    { "trainNo": 12345, "station": "Hyderabad", "departure": "2025-09-05T09:30:00" },
+    { "trainNo": 67890, "station": "Delhi", "departure": "2025-09-05T07:45:00" },
+    { "trainNo": 54321, "station": "Hyderabad", "departure": "2025-09-05T11:00:00" }
+  ]
+}
